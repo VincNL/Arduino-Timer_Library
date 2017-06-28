@@ -7,3 +7,6 @@
 Simply writed library that help you delay something while something else continue on running.
 
 If you want to see all the functions you can use and what does every function do use the function .help(), and it will print on the serial monitor all the functions (Use Serial.begin(9600) - or any other baud rate at the setup() function).
+
+
+Library written by VincNL
